@@ -27,7 +27,7 @@ Desenvolvido no _Bootcamp Gostack_ a aplicação utiliza API do github para real
 ## Como usar Projeto
 ```bash
     # Clone this repository
-    $ git clone
+    $ git clone https://github.com/Carlos-Reiss/github-explorer.git
 
     # Go into the repository
     $ cd github-explorer
